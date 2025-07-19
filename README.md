@@ -11,7 +11,7 @@ The Mail and Guardian newspaper published [an article](https://mg.co.za/the-gree
 Monitoring recent and historic hyacinth growth can raise awareness of the risks and contribute to remediation planning. Data from the Sentinel-2 satellites can be used to visualise and measure the hyacinth coverage in the dam.
 
 ## This project
-This project can be used to visualise water hyacinth, water lettuce or other vegetation growth in dams throughout South Africa, and with small changes, any dam where shapefiles are available. Try the notebook with other dam names, for example: Bronkhorstspruit, Vaal, 
+This project can be used to visualise water hyacinth, water lettuce or other vegetation growth in dams throughout South Africa, and with small changes, any dam where shapefiles are available. Try the notebook with other dam names, for example: Bronkhorstspruit, Sterkfontein, Loskop
 
 ## Open Data on AWS
 Sentinel-2 data is available on the AWS Open Data Registry at https://registry.opendata.aws/sentinel-2/ and as Cloud Optimised GeoTiffs (COGs) at https://registry.opendata.aws/sentinel-2-l2a-cogs/. We will use the latter for this project.
@@ -22,3 +22,6 @@ The environment can be set up on [SageMaker Studio Lab](https://studiolab.sagema
 
 ## License
 Please see the License file
+
+## Sample Output
+![2024 Water Hyacinth on Hartbeespoort Dam](HartbeespoortNDVIAnimation2024.gif "Hartbeespoort Dam NDVI")
