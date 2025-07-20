@@ -25,3 +25,4 @@ Please see the License file
 
 ## Sample Output
 ![2024 Water Hyacinth on Hartbeespoort Dam](HartbeespoortNDVIAnimation2024.gif "Hartbeespoort Dam NDVI")
+![Water Hyacinth on Hartbeespoort Dam over time](HartbeespoortWaterHyacinthOverTime.png "Hartbeespoort Dam Coverage Graph")
